@@ -1,2 +1,2 @@
 # hello-world
-proba
+Učim kako radi ovo grananje na Github :-)
